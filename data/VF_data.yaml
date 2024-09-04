@@ -1,0 +1,6 @@
+train: ../data/images/train
+val: ../data/images/valid
+test: ../data/images/test
+
+nc: 5
+names: ['Banh-Mi', 'Bot Chien', 'Bun', 'Goi-Cuon', 'Pho']
